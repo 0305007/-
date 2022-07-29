@@ -29,6 +29,7 @@ git add <имя файл>
 
 ***
 git branch <имя ветки>
+<<<<<<< HEAD
 ***
 
 ## Просмотр лога комитов
@@ -37,4 +38,6 @@ git branch <имя ветки>
 
 *** 
    git log --graph --all
+=======
+>>>>>>> c9f4d1e (Branch creation)
 ***
